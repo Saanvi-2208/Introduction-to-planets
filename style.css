@@ -1,0 +1,60 @@
+body
+{
+    text-align: center;
+    background-color: black;
+    color: white;
+}
+#intro img
+{
+    width: 20%;
+    height: 40%;
+}
+h1
+{
+    font-family: monospace;
+    text-decoration: underline, solid, aqua;
+}
+p
+{
+    font-size: 20px;
+}
+#earth img
+{
+    width:30%;
+    height: 60%;
+}
+#venus img
+{
+    width:25%;
+    height: 50%;
+}
+#mars img
+{
+    width:20%;
+    height: 40%;
+}
+#mercury img
+{
+    width:15%;
+    height: 30%;
+}
+#neptune img
+{
+    width:35%;
+    height: 60%;
+}
+#uranus img
+{
+    width:40%;
+    height: 70%;
+}
+#saturn img
+{
+    width:50%;
+    height: 80%;
+}
+#jupiter img
+{
+    width:70%;
+    height: 120%;
+}
